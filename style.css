@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 900px;
+}
+body {
+    background-color: white;
+    color: black;
+    margin: 10em;
+}
